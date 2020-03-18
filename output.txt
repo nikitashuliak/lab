@@ -1,0 +1,2 @@
+Dead-end nodes: 7 8 
+Unreachable nodes: 5 9 
